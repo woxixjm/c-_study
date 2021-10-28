@@ -3,7 +3,7 @@
 #include </home/xian/Desktop/c++_study/SP+SA/sa.h>
 #include <cmath>
 
-// yitiantiantian
+// 
 int main (){
     double T = T0; //initialization
     double curr_cost;
